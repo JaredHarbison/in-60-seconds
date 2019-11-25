@@ -6,6 +6,8 @@
 
 ![IMAGE](assets/img/presentation.png)
 
+<script src="https://gist.github.com/JaredHarbison/49cb51776029b1773fb4a6cb776ba34f.js"></script>
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
